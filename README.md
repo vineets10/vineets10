@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vineet Shinde</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-- 🔭 I’m currently working on **File Compression using huffman coding**
+- 🔭 I’m currently working on **Multithreading in Userland**
 
-- 🌱 I’m currently learning **DataStructues and algorithm, Artificial Intelligence, Database Management System,Django,Computer Networks**
+- 🌱 I’m currently learning **Operating Systems,DataStructures,Design & Analysis of Algorithms,Data Science,Computer Networks**
 
-- 💬 Ask me about **SQL,django , DSA**
+- 💬 Ask me about **SQL,Operating Systems, DSA**
 
-- 📫 How to reach me **shindevineet02@gmail.com**
+- 📫 How to reach me **shindevv20.comp@coep.ac.in**
 
 - ⚡ Fun fact **I love to code anywhere ;)**
 
